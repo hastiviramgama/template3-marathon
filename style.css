@@ -1,0 +1,307 @@
+
+.container{
+    background-color: rgb(53, 52, 52);
+    width: 100%;
+    min-height: 100vh;
+}
+.background{
+    
+    background: url(codeimg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.topleftup{
+    position: relative;
+    background-color:rgb(16, 15, 15,0.5) ;
+    z-index: 1;
+    padding-left:50px;
+    top: -20px;
+    margin-left:-20px;
+
+}
+.u{
+    font-size: 90px;
+font-weight:900;
+font-family: Arial, Helvetica, sans-serif;
+color: white;
+z-index:1;
+position:relative;
+top:20px;
+}
+.line{
+    border: 5px solid rgb(66, 151, 220);
+    position:relative;
+    height: 10px;
+    width:60px;
+    top:50px;
+    left:8px;
+}
+.trends{
+    font-size:40px;
+    position: relative;
+    font-weight:900;
+    color: white;
+    top:0px;
+
+}
+.softs{
+    font-size:30px;
+    position: relative;
+    color: white;
+    top:-20px;
+
+}
+.topdown{
+    position: relative;
+    font-size:60px;
+    z-index:1;
+    margin-left:-20px;
+    padding-left: 100px;
+    color: white;
+    letter-spacing:4px;
+    margin-bottom:-25px;
+    margin-top:325px;
+    background-color: rgba(250, 223, 14, 0.7);
+}
+.learn{
+    font-weight:900;
+    position: relative;
+    bottom: -30px;
+    padding-top: 15px;
+}
+.programming{
+padding-bottom:17px;
+position: relative;
+top: -20px;
+}
+.topright{
+color: white;
+font-size:45px;
+padding-top:80px;
+position: relative;
+direction: rtl;
+margin-left:-30px;
+padding-left:0px;
+padding-right:50px;
+padding-bottom: 120px;
+text-align: right;
+margin-right: -13px;
+letter-spacing: 2px;
+font-weight: 500;
+background-color: rgba(255, 252, 252, 0.2);
+}
+.addresspart{
+    background-color: rgb(18, 18, 18,0.5);
+    color: white;
+    padding-right:50px;
+    padding-left:20px;
+    text-align: right;
+    padding-top: 25px;
+    padding-bottom: 20px;
+    margin-right: -10px;
+    margin-left:-30px;
+    letter-spacing:1px;
+}
+.addressarea{
+    font-size: 20px;
+}
+.addressboldtext{
+    font-weight:500;
+    font-size: 23px;
+}
+.programming{
+    padding-bottom: -20px;
+font-weight: bold;
+position: relative;
+}
+.rightmiddlepart{
+    background-color: white;
+    position: relative;
+    padding-left:40px;
+    left: -15px;
+    top: 0px;
+}
+.middleheading{
+    font-size:60px;
+    color:rgb(179, 43, 9);
+    font-weight: 900;
+    top:10px;
+    position: relative;
+    padding-bottom: 20px;
+}
+.firstparaofmiddlepart{
+    font-size:35px;
+    color: rgb(53, 52, 52);
+    font-weight:700;
+    top:-30px;
+    position: relative;
+}
+.secondparaofmiddlepart{
+    font-size:23px;
+    color: rgb(53, 52, 52);
+    top:-55px;
+    position: relative;
+    letter-spacing: 2px;
+    font-weight: bold;
+    padding-bottom:27px;
+
+}
+.bottompart{
+    background-color: rgb(217, 215, 215);
+    position: relative;
+    margin-left: -12px;
+    padding-top:30px;
+    top: -90px;
+
+}
+.ourcompanyofbottom{
+    font-size:20px;
+    color:rgb(179, 43, 9);
+    font-weight:900;
+    padding-left:50px;
+    padding-right:50px ;
+
+}
+.codedofbottom{
+    font-size:50px;
+    font-weight:900;
+    color:rgb(53, 52, 52);
+    position: relative;
+    top: -10px;
+    padding-left:50px;
+    padding-right:50px ;
+
+}
+sup{
+    font-size: 12px;
+    color:rgb(53, 52, 52) ;
+    top:-15px;
+    position: relative;
+}
+.bottomparaheading{
+    color:rgb(53, 52, 52);
+    font-size:18px;
+    position: relative;
+    top: -25px;
+    padding-bottom:40px;
+    padding-left:50px;
+    padding-right:50px ;
+}
+.bottompara{
+font-size:18px;
+padding-bottom:50px;
+position: relative;
+text-align: justify;
+top: -25px;
+letter-spacing: 1px;
+padding-left:50px;
+padding-right:50px ;
+color: rgb(53, 52, 52);
+}
+.orangeline{
+    height: 10px;
+    background-color:orangered ;
+    position: relative;
+}
+.logopart{
+    position: relative;
+    top:0px;
+    margin-bottom: -230px;
+    right: -15px;
+    color: white;
+    margin-left: -45px;
+    background-color:rgb(66, 151, 220);
+}
+.logo{
+    border:9px solid white;
+    height:100px;
+    border-radius: 50%;
+    width:100px;
+    position: relative;
+    top:30px;
+    left:40px;
+}
+.logo2{
+    border:9px solid white;
+    height:70px;
+    border-radius: 50%;
+    width:70px;
+    position: relative;
+    top:-70px;
+    left:55px;
+}
+.logo3{
+    height:50px;
+    width:60px;
+    position: relative;
+    top:-180px;
+    left:80px;
+    background-color:rgb(66, 151, 220);
+}
+.logoline{
+    font-weight: 900;
+    font-size: 40px;
+    padding-left:140px;
+    top:-210px;
+    position: relative;
+}
+.logotext{
+    font-size:15px;
+    top: -230px;
+    position: relative;
+    padding-left:140px;
+    padding-bottom:29px;
+    padding-right: 50px;
+}
+.rightbottom{
+    padding-top:50px;
+    padding-left: 50px;
+    margin-right: -14px;
+    margin-left:-30px;
+    top:0px;
+    position: relative;
+    padding-right: 50px;
+    text-align: right;
+    background-color: white;
+}
+.second{
+    font-size:50px;
+    color: rgb(66, 151, 220);
+    font-weight:700;
+}
+.parafheading{
+    font-size:25px;
+    color: rgb(53, 52, 52);
+    font-weight:700;
+    top:-30px;
+    position: relative;
+letter-spacing:1px;
+
+}
+.trofyimg{
+    height:150px;
+    width:150px;
+    top:-50px;
+    position: relative;
+    left: 20px;
+}
+.parasheading{
+    font-size:25px;
+    color: rgb(53, 52, 52);
+    font-weight:700;
+    top:-40px;
+    position: relative;
+    letter-spacing:1px;
+}
+.paraofbottomright{
+    direction:rtl;
+    position: relative;
+    top:-40px;
+    text-align: justify;
+    font-weight:400;
+    color:rgb(53, 52, 52) ;
+    padding-bottom:80px;
+    font-size:18px;
+
+}
